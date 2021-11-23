@@ -1,0 +1,18 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ÜğS8æÜ¤€Ã/H›
+RMAJORZ
+CODE_SMELL
+\
+java:S1481")Remove this unused "obj1" local variable.(ùœÈå8’€‡Ã/Hœ
+RMINORZ
+CODE_SMELL
+k
+java:S1854"8Remove this useless assignment to local variable "obj1".(ùœÈå8’€‡Ã/H
+RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(£ò˜ÿÿÿÿÿ8–²‡Ã/H
+RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Ÿ‘¹Ó8’€‡Ã/HŸ
+RMAJORZ
+CODE_SMELL

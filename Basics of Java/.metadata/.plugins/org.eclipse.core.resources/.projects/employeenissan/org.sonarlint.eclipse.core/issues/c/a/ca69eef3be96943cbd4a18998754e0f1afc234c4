@@ -1,0 +1,30 @@
+
+‘
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(³ä¦§øÿÿÿÿ8ÇêÿíÆ/Hö!RMINORZ
+CODE_SMELL
+p	java:S106>"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ8‰”ŞíÆ/H÷!RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(·Çí 8‚ôîÆ/Hœ"RMAJORZ
+CODE_SMELL
+`
+java:S1604("(Make this anonymous inner class a lambda(³ä¦§øÿÿÿÿ8ÇêÿíÆ/Hø!RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹æË¢ıÿÿÿÿ8í†ğíÆ/Hô!RMINORZ
+CODE_SMELL
+k	java:S106B"9Replace this use of System.out or System.err by a logger.(áñÁ·8˜›øµÊ/Hš"RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•úèîüÿÿÿÿ8…ƒßíÆ/Hú!RMINORZ
+CODE_SMELL
+‹
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(•úèîüÿÿÿÿ8í†ğíÆ/Hñ!RMINORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8¹ÕüµÊ/H›"RMAJORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(É„†ú8„òíÆ/Hõ!RMAJORZ
+CODE_SMELL
+p	java:S106C"9Replace this use of System.out or System.err by a logger.(‡îÁÂùÿÿÿÿ8‚ôîÆ/Hò!RMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ääÕÆ/Hó!RMAJORZ
+CODE_SMELL

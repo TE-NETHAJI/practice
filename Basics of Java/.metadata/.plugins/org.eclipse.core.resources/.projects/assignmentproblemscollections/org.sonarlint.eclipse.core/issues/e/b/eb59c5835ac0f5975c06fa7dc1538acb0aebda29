@@ -1,0 +1,16 @@
+
+a
+java:S3740	"/Provide the parametrized type for this generic.(ŒóÿC8–÷åÈ/Hı!RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êÁôİúÿÿÿÿ8 ¬øåÈ/Hş!RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8›úåÈ/Hÿ!RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¼ÅÎ½üÿÿÿÿ8È¹ôåÈ/H€"RMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8È¹ôåÈ/H"RMINORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÇh8È¹ôåÈ/H‚"RMINORZ
+CODE_SMELL

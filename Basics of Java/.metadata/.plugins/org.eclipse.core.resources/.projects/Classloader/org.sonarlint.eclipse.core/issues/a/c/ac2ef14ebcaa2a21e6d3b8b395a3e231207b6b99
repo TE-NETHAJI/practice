@@ -1,0 +1,30 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8‡ê÷­Ã/HêRMAJORZ
+CODE_SMELL
+g
+java:S1172"/Remove this unused method parameter "fileName".(‹­µŸúÿÿÿÿ8‡ê÷­Ã/HëRMAJORZ
+CODE_SMELL
+†
+java:S4042+"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8Š‹¨°Ã/HíRMAJORZ
+CODE_SMELL
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‹µÏéÿÿÿÿÿ8‡ê÷­Ã/HîRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÚé˜8‡ê÷­Ã/HïRMAJORZ
+CODE_SMELL
+[	java:S108%")Either remove or fill this block of code.(‹±ÃÆ8ÓÈ•®Ã/HğRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ÕÒÙŸúÿÿÿÿ8„š°Ã/HñRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êú’¶ÿÿÿÿÿ8˜Ê±¯Ã/HòRMAJORZ
+CODE_SMELL
+j	java:S106("9Replace this use of System.out or System.err by a logger.(¾şÛd8²°’°Ã/HóRMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(úÖÎòûÿÿÿÿ8‡…–°Ã/HôRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HõRMINORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(Š¤›¢8‡ê÷­Ã/HöRMAJORZ
+CODE_SMELL
+k	java:S899+";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8Š‹¨°Ã/H÷RMINORZBUG

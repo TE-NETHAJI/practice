@@ -1,0 +1,17 @@
+
+t
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ˆÒÙüÿÿÿÿH®!RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ä¯µüÿÿÿÿH¯!RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËİúÿÿÿÿH°!RMAJORZ
+CODE_SMELL
+f
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿH±!RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(»†µíÿÿÿÿÿH³!RMAJORZ
+CODE_SMELL
+_
+java:S3518"7Make sure "b" can't be zero before doing this division.(ò„¢óH´!RCRITICALZBUG
+d	java:S106	"9Replace this use of System.out or System.err by a logger.(Áß‡ÜH·!RMAJORZ
+CODE_SMELL

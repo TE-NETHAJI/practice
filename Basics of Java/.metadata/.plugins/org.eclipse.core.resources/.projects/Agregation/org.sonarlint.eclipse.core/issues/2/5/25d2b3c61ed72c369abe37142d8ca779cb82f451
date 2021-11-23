@@ -1,0 +1,7 @@
+
+l
+java:S3518"8Make sure "k1" can't be zero before doing this division.(ì“µşÿÿÿÿ8ÿÜ×ùÂ/HéRCRITICALZBUG
+n	java:S125"<This block of commented-out lines of code should be removed.(ã†Üè8ÿÜ×ùÂ/HìRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8úæßõÂ/HîRMAJORZ
+CODE_SMELL

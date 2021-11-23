@@ -1,0 +1,25 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(å·ôµHRMAJORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÂöğşÿÿÿÿH”RMINORZ
+CODE_SMELL
+i
+java:S1854"8Remove this useless assignment to local variable "emp1".(Ÿ®ØÆøÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+‘
+java:S2273"eMove this call to "notifyAll()" into a synchronized block to be sure the monitor on "Object" is held.(Ç¡ª¿8Ùœ—§Ä/HšRMAJORZBUG
+Z
+java:S1481")Remove this unused "emp1" local variable.(Î³¯ûÿÿÿÿHRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¡…€šüÿÿÿÿH“RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¡ª¿H™RMAJORZ
+CODE_SMELL
+U
+java:S1481")Remove this unused "test" local variable.(ÀÑùÿHRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ÌŒØ¬üÿÿÿÿH’RMAJORZ
+CODE_SMELL
+d
+java:S1854"8Remove this useless assignment to local variable "test".(ÀÑùÿH‹RMAJORZ
+CODE_SMELL

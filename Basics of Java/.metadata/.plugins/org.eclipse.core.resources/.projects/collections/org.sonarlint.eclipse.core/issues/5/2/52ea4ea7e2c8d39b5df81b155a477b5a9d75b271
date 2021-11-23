@@ -1,0 +1,16 @@
+
+g	java:S125"<This block of commented-out lines of code should be removed.(âÖª²H£RMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§Ûù±øÿÿÿÿH¦RMINORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(¼¡¨òH§RMAJORZ
+CODE_SMELL
+x
+java:S1192"JDefine a constant instead of duplicating this literal "developer" 5 times.(È«ÇlH¨RCRITICALZ
+CODE_SMELL
+i	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH®RMAJORZ
+CODE_SMELL
+[
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕH¯RMINORZ
+CODE_SMELL

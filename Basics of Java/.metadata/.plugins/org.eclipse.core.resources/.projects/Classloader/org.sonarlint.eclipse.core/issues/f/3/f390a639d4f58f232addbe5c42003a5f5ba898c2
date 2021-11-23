@@ -1,0 +1,10 @@
+
+F
+java:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+y
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(‹µΟιÿÿÿÿÿ8Κι¬Γ/H‘RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤›Ά8Κι¬Γ/H’RMAJORZ
+CODE_SMELL

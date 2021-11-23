@@ -1,0 +1,31 @@
+
+x
+java:S1192)"JDefine a constant instead of duplicating this literal "developer" 5 times.(È«ÇlHµRCRITICALZ
+CODE_SMELL
+p
+java:S2259/"FA "NullPointerException" could be thrown; "employee" is nullable here.(à€ó„ÿÿÿÿÿH¼RMAJORZBUG
+d	java:S1065"9Replace this use of System.out or System.err by a logger.(¼¡¨òH³RMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ş†˜úÿÿÿÿH®RMINORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Ğ€àøÿÿÿÿH¯RMINORZ
+CODE_SMELL
+Š
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü‘†„şÿÿÿÿH±RMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(—Ë°ÌH°RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(–œòH­RMAJORZ
+CODE_SMELL
+d	java:S106$"9Replace this use of System.out or System.err by a logger.(¼°Ê»H²RMAJORZ
+CODE_SMELL
+n	java:S1258"<This block of commented-out lines of code should be removed.(“Ù°Á8ÜóşÄ/HÈRMAJORZ
+CODE_SMELL
+n	java:S125@"<This block of commented-out lines of code should be removed.(Ìğ˜8ÜóşÄ/HËRMAJORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ÜóşÄ/HÌRMINORZ
+CODE_SMELL

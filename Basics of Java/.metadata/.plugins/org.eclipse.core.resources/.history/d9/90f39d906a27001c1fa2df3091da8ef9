@@ -1,0 +1,6 @@
+package aravind;
+
+public class Test implements A,B {
+
+	
+}

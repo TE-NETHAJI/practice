@@ -1,0 +1,13 @@
+
+\
+java:S1481"+Remove this unused "querry" local variable.(‰Ü¨ÂùÿÿÿÿHñ&RMINORZ
+CODE_SMELL
+T	java:S1085")Either remove or fill this block of code.(”ý¾Hò&RMAJORZ
+CODE_SMELL
+c	java:S106""9Replace this use of System.out or System.err by a logger.(²š•6Hó&RMAJORZ
+CODE_SMELL
+s
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ýÿÿÿÿHô&RBLOCKERZBUG
+^
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHõ&RMAJORZ
+CODE_SMELL

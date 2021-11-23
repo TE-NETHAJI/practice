@@ -1,0 +1,16 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÐèíüÿÿÿÿHð"RMAJORZ
+CODE_SMELL
+[
+java:S1611"/Remove the parentheses around the "a" parameter(Ò§ÜÎHñ"RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(…˜Å¶ûÿÿÿÿHò"RMAJORZ
+CODE_SMELL
+`
+java:S1611
+"/Remove the parentheses around the "c" parameter(ï‰ü£ýÿÿÿÿHó"RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜHô"RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿHõ"RMAJORZ
+CODE_SMELL

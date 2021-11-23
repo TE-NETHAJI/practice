@@ -1,0 +1,15 @@
+
+n
+java:S1610"<Convert the abstract class "TestAbstract" into an interface.(‚ÛÁj8×¢³´Ä/H£
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­ –8¯½»´Ä/H¤
+RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(ÿ’‘Îıÿÿÿÿ8¯½»´Ä/H¥
+RMAJORZ
+CODE_SMELL
+l
+java:S1118":Add a private constructor to hide the implicit public one.(‚ÛÁj8±È´Ä/H§
+RMAJORZ
+CODE_SMELL

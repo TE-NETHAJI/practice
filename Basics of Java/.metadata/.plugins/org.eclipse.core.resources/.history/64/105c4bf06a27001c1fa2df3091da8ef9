@@ -1,0 +1,13 @@
+package aravind;
+
+public class Test implements A,B {
+
+	A a = new Test();
+
+	@Override
+	public void m1() {
+		System.out.println("hi");
+		
+	}
+	
+}

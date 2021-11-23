@@ -1,0 +1,47 @@
+
+b
+java:S3740-"/Provide the parametrized type for this generic.(ü•ïø8‰ŸìóÄ/HRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(Íü°ÿÿÿÿÿ8ÈæŒáÄ/H‚RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(±áô8™º’áÄ/HƒRMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8—ÑáÄ/H„RMAJORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8’­…áÄ/H…RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«òˆì8Â†íàÄ/H†RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(Øò˜±ıÿÿÿÿ8ÈæŒáÄ/H‡RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(§î¦’8²ËÉóÄ/HˆRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(§Í»8ƒøàÄ/H‰RMAJORZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(½é¾’8›ùˆáÄ/HŠRMAJORZ
+CODE_SMELL
+j	java:S106+"9Replace this use of System.out or System.err by a logger.(è“¦8šúùàÄ/H‹RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(Ÿ‘€Ûüÿÿÿÿ8ÍÅñóÄ/HŒRMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(Èñğ8ò”ôàÄ/HRMAJORZ
+CODE_SMELL
+©
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78—¥¦áÄ/HRMINORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8×ÿ÷óÄ/HRMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–Üéª8©ÖàÄ/HRMINORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ8©ÖàÄ/H‘RMAJORZ
+CODE_SMELL
+k	java:S1061"9Replace this use of System.out or System.err by a logger.(¸”˜µ8ƒæïóÄ/H’RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(á¢÷·ùÿÿÿÿ8‰ŸìóÄ/H“RMAJORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¸ÄèáÄ/H”RMINORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(ŸúŒó8×ÿ÷óÄ/H•RMAJORZ
+CODE_SMELL

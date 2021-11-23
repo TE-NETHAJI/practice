@@ -1,0 +1,10 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¯¬¥í8˜ìêÒÅ/HæRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(„’Ï©øÿÿÿÿ8˜ìêÒÅ/HçRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÕ¾Á8˜ìêÒÅ/HèRMAJORZ
+CODE_SMELL
+[
+java:S1144")Remove this unused private "math" method.(ç±¶g8˜ìêÒÅ/HéRMAJORZ
+CODE_SMELL

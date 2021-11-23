@@ -1,0 +1,11 @@
+
+T	java:S108 ")Either remove or fill this block of code.(”ύΎHRMAJORZ
+CODE_SMELL
+`
+java:S3416	"/Update this logger to use "FileHandler1.class".(ωΫιόÿÿÿÿH RMINORZ
+CODE_SMELL
+v
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ωΫιόÿÿÿÿH΅RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(Ρ’υϊÿÿÿÿ8Π¤ΆΖ/HΆRMAJORZ
+CODE_SMELL

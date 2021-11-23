@@ -1,0 +1,30 @@
+
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿHß&RMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(€ı¥úÿÿÿÿHà&RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(•†ßHá&RMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ÂãŠÿÿÿÿÿHâ&RMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(ìùõŒøÿÿÿÿHã&RMAJORZ
+CODE_SMELL
+z
+java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8¢šÈ™É/Hä&RBLOCKERZBUG
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(ÃËØøÿÿÿÿHå&RMAJORZ
+CODE_SMELL
+d	java:S106 "9Replace this use of System.out or System.err by a logger.(«¨â¼Hæ&RMAJORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ÿôı˜É/Hç&RMINORZ
+CODE_SMELL
+^
+java:S1128	"2Remove this unused import 'com.mysql.jdbc.Driver'.(Ô–ƒŸHè&RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ËËˆ³üÿÿÿÿHé&RMAJORZ
+CODE_SMELL
+^
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHì&RMAJORZ
+CODE_SMELL
+i	java:S106,"9Replace this use of System.out or System.err by a logger.(ÂÑ§óúÿÿÿÿHí&RMAJORZ
+CODE_SMELL

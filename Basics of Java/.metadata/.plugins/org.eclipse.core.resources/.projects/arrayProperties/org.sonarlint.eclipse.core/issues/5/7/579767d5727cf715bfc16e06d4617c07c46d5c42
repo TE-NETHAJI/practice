@@ -1,0 +1,44 @@
+
+r
+java:S1854!":Remove this useless assignment to local variable "string".(ãÑìıüÿÿÿÿ8Ò¦ÔãÆ/HöRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÂ½Úıÿÿÿÿ8´Îÿ§Æ/H÷RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ—Íè8Îğó§Æ/HøRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(óóö×8ÊÇåƒÄ/HùRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÂ­´8ÊÇåƒÄ/HúRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8¸š¨Æ/HûRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(°´Ø½ùÿÿÿÿ8¸š¨Æ/HüRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¦Î£òüÿÿÿÿ8ÊÇåƒÄ/HıRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÊÀ8ÊÇåƒÄ/HşRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«úÂ®ıÿÿÿÿ8¤º™„Ä/HÿRMAJORZ
+CODE_SMELL
+c
+java:S1481!"+Remove this unused "string" local variable.(ãÑìıüÿÿÿÿ8Ò¦ÔãÆ/H€RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«úÂ®ıÿÿÿÿ8Úµü§Æ/HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(í¹İşÿÿÿÿ8å¸í§Æ/H‚RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(£öÑåÿÿÿÿÿ8ğ—´ãÆ/HƒRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›¿¸°ÿÿÿÿÿ8Í¶»ãÆ/H„RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ô¦ÑÁ8ÊÇåƒÄ/H…RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ËÌı øÿÿÿÿ8ÊÇåƒÄ/H†RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8Ò¦ÔãÆ/H‡RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹¥Ÿ³ıÿÿÿÿ8ÊÇåƒÄ/HˆRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(©İ¨Á8ÊÇåƒÄ/H‰RMAJORZ
+CODE_SMELL

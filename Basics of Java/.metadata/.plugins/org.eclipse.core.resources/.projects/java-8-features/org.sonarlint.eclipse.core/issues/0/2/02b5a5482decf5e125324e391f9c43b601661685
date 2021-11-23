@@ -1,0 +1,66 @@
+
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8‹é¥·Ê/H¸"RMAJORZ
+CODE_SMELL
+W
+java:S2201G"+The return value of "collect" must be used.(èï©è8¯§ÑñÅ/H«"RMAJORZBUG
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(ÎªğÃ8ëĞ®ñÅ/H²"RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8ÛÅ ÍÅ/H¡"RMINORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(õÒöî8óœûğÅ/H±"RMAJORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(¾çÏà8¼·ÍÅ/H¯"RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(è›şÿÿÿÿ8ù…òĞÅ/H¦"RMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(Äüò”ûÿÿÿÿ8ßòæĞÅ/H§"RMAJORZ
+CODE_SMELL
+k	java:S106G"9Replace this use of System.out or System.err by a logger.(èï©è8¼·ÍÅ/H©"RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(âĞğñıÿÿÿÿ8¡±ÓÍÅ/H£"RMAJORZ
+CODE_SMELL
+j	java:S106""9Replace this use of System.out or System.err by a logger.(¥ÖC8·ª¢¸Ê/HÇ"RMAJORZ
+CODE_SMELL
+T
+java:S3864G"!Remove this use of "Stream.peek".(èï©è8¯§ÑñÅ/H"RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ù…òĞÅ/H¬"RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(’†¡8ù…òĞÅ/H°"RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8ù…òĞÅ/H¤"RMAJORZ
+CODE_SMELL
+k	java:S106,"9Replace this use of System.out or System.err by a logger.(õÂ¾û8œûÏÍÅ/H "RMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8‹é¥·Ê/Hº"RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(·¨Ã°øÿÿÿÿ8ù…òĞÅ/Hª"RMAJORZ
+CODE_SMELL
+p	java:S106:"9Replace this use of System.out or System.err by a logger.(ÑÙñ£ùÿÿÿÿ8äèÄñÅ/H´"RMAJORZ
+CODE_SMELL
+W
+java:S2201="+The return value of "collect" must be used.(õÒöî8î‡¼ñÅ/H³"RMAJORZBUG
+T
+java:S3864="!Remove this use of "Stream.peek".(õÒöî8ëĞ®ñÅ/H®"RMAJORZ
+CODE_SMELL
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(¥ÖC8·ª¢¸Ê/HÆ"RMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(³š¾ğùÿÿÿÿ8äèÄñÅ/HŸ"RMAJORZ
+CODE_SMELL
+p	java:S106F"9Replace this use of System.out or System.err by a logger.(ÕÇÕûÿÿÿÿ8Ú“¨·Ê/H½"RMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(àğä‰ûÿÿÿÿ8ßòæĞÅ/H¢"RMAJORZ
+CODE_SMELL
+n	java:S125A"<This block of commented-out lines of code should be removed.(ì€¬Å8¯§ÑñÅ/H"RMAJORZ
+CODE_SMELL
+p
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ8•»ÒóÅ/Hµ"RMINORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(ÕÍÅ»ÿÿÿÿÿ8ÛÅ ÍÅ/H¥"RMAJORZ
+CODE_SMELL
+s	java:S125%"<This block of commented-out lines of code should be removed.(ßÅ³Ìüÿÿÿÿ8¡ÿõĞÅ/H­"RMAJORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(ÏÁ•8ßòæĞÅ/H¨"RMAJORZ
+CODE_SMELL

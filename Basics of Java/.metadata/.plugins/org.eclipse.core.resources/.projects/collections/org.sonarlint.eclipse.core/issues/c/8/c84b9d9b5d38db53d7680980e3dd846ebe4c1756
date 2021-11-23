@@ -1,0 +1,6 @@
+
+Š
+java:S1210S"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(¢¦ƒ ÿÿÿÿÿHêRMINORZ
+CODE_SMELL
+u
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ðÜþŠHëRMINORZBUG

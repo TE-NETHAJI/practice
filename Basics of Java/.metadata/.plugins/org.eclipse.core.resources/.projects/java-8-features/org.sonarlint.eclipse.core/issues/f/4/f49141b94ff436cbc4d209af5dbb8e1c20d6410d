@@ -1,0 +1,12 @@
+
+n	java:S125"<This block of commented-out lines of code should be removed.(²æ¸„8ª¸†ÌÅ/HÊ"RMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ÓÖ…øøÿÿÿÿ8ùçÖÊÅ/HË"RMAJORZ
+CODE_SMELL
+k	java:S106)"9Replace this use of System.out or System.err by a logger.(ûøõ­8‘ÒÀËÅ/HÌ"RMAJORZ
+CODE_SMELL
+‘
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8øçÖÊÅ/HÍ"RMINORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(¸Ä–8ÊÖõËÅ/HÎ"RMAJORZ
+CODE_SMELL

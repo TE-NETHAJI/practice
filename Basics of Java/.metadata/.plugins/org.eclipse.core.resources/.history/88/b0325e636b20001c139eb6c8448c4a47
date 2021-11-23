@@ -1,0 +1,10 @@
+package com.oops.testing;
+
+public class CloneObjects {
+
+	
+	public static void main(String[] args) {
+		System.out.println();
+	}
+
+}

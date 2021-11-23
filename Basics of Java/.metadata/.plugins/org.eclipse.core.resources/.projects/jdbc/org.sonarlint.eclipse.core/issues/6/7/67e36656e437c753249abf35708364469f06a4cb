@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ê›íˆýÿÿÿÿ8ø‘Š±É/Hî&RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ç¯¹8ïœÝ°É/Hï&RMAJORZ
+CODE_SMELL
+e
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ïœÝ°É/Hð&RMAJORZ
+CODE_SMELL

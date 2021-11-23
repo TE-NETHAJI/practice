@@ -1,0 +1,13 @@
+
+„
+java:S3008	"LRename this field "H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û´ç—üÿÿÿÿ8æ¹è¢Ã/HÆRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(úÏöœÿÿÿÿÿ8æ¹è¢Ã/HÇRMAJORZ
+CODE_SMELL
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(•ïÐòùÿÿÿÿ8æ¹è¢Ã/HÈRMAJORZ
+CODE_SMELL
+
+java:S3008"LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŠ¤õ8æ¹è¢Ã/HÉRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ8æ¹è¢Ã/HÊRMAJORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+
+‘
+java:S1210*"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ8å¹ŠÖÄ/Hó RMINORZ
+CODE_SMELL
+n	java:S125+"<This block of commented-out lines of code should be removed.(†«„ş8å¹ŠÖÄ/Hô RMAJORZ
+CODE_SMELL

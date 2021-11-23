@@ -1,0 +1,9 @@
+package com.oops.testing;
+
+public class CloneTest {
+
+	public CloneTest() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

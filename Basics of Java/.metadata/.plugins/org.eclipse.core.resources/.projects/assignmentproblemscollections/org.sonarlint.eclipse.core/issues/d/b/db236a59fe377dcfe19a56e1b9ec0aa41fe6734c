@@ -1,0 +1,10 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ü’Šâ8ïµçåÈ/H’RMAJORZ
+CODE_SMELL
+‘
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").( Ó‹†ûÿÿÿÿ8ïµçåÈ/H“RMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(û‘ŽÃüÿÿÿÿ8ïµçåÈ/H”RMAJORZ
+CODE_SMELL

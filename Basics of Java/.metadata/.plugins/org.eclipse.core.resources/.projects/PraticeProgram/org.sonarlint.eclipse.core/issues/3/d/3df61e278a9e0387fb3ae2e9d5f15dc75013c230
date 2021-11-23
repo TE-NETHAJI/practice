@@ -1,0 +1,16 @@
+
+m
+java:S1854"5Remove this useless assignment to local variable "e".(×Ö’°ùÿÿÿÿ8‰åÆ®Ä/H™	RMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(˜ÿ¤ûÿÿÿÿ8Û¬¥­Ä/H‚	RMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "e" local variable.(×Ö’°ùÿÿÿÿ8‰åÆ®Ä/Hš	RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­ –8İ³®Ä/H	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8†ò‚®Ä/H	RMAJORZ
+CODE_SMELL
+o
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(š×áŞH€	RMAJORZ
+CODE_SMELL

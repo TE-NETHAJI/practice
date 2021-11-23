@@ -1,0 +1,12 @@
+
+d	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²HªRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿH«RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²H¬RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH­RMAJORZ
+CODE_SMELL
+h
+java:S2589"7Remove this expression which always evaluates to "true"(òð¨ûùÿÿÿÿH®RMAJORZ
+CODE_SMELL

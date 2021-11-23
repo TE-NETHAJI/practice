@@ -1,0 +1,19 @@
+
+V
+&src/arrayProperties/Array/MyArray.java,b\4\b41fc8d43dce1fe42583c371b6111a6b267bb35d
+P
+ src/com/arraytest/ArrayTest.java,2\5\25181c0ede7ed44f5b7915ca513cabb4df550df2
+R
+"src/com/arraytest/ArrayV2Test.java,4\1\41762ed3f974bd16fbdec4d4d1c2be334ac43557
+V
+&src/arrayProperties/Array/ArrayV3.java,7\5\753ddbe884f6fdeb4602b8377b88206fdfbfbb90
+V
+&src/arrayProperties/Array/ArrayV2.java,0\b\0b4ffb49c2a64e94afc2ba8eb7fc9bc373bf57be
+R
+"src/com/arraytest/ArrayTestV3.java,a\7\a779b30e364850ca4cc0d6679f9db85fd958416b
+R
+"src/com/arraytest/ArrayV4Test.java,5\7\579767d5727cf715bfc16e06d4617c07c46d5c42
+V
+&src/arrayProperties/Array/ArrayV4.java,c\c\cc7a0aa8161c925447fc3d9caeeeb36e3e0f5dbf
+[
++src/arrayProperties/Array/ArrayMyLogic.java,0\6\06493e00a6f27bb46b0f384ac5241670b1c0e4cf

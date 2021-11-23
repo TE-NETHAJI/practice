@@ -1,0 +1,21 @@
+
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò†ÿÿHÖ&RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¤œÛ¹HÚ&RMAJORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(ì¨ò»üÿÿÿÿH×&RINFOZ
+CODE_SMELL
+J
+java:S2116"%Use "Arrays.toString(array)" instead.(¤œÛ¹HÕ&RMAJORZBUG
+i
+java:S1197	"8Move the array designator from the variable to the type.(Å½‘ùÿÿÿÿHÔ&RMINORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(âÇüÀHØ&RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÛ&RMINORZ
+CODE_SMELL
+c
+java:S1197"8Move the array designator from the variable to the type.(çÇÈvHÙ&RMINORZ
+CODE_SMELL

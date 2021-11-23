@@ -1,0 +1,8 @@
+
+|
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(”ÅÒÂ8õ¶È¸É/HŠ'RBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Â«Ö²8õ¶È¸É/H‹'RMAJORZ
+CODE_SMELL
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¼¤É¸É/HŒ'RMINORZ
+CODE_SMELL

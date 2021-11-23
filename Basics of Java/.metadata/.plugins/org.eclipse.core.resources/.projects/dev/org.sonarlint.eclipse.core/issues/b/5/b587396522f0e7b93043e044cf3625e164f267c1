@@ -1,0 +1,42 @@
+
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(Ó ÀHİRMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.stream'.(§æĞçøÿÿÿÿ8¨ôÅ/HŞRMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Œ­ÿ…HßRMAJORZ
+CODE_SMELL
+T
+java:S1604""(Make this anonymous inner class a lambda(ÉãÃ®HàRMAJORZ
+CODE_SMELL
+i	java:S1060"9Replace this use of System.out or System.err by a logger.(è°ÇÚıÿÿÿÿHáRMAJORZ
+CODE_SMELL
+_
+java:S1612",Replace this lambda with a method reference.(¿½ÉÑ8¸ã“òÅ/HâRMINORZ
+CODE_SMELL
+d	java:S106+"9Replace this use of System.out or System.err by a logger.(úÍ›§HãRMAJORZ
+CODE_SMELL
+X
+java:S1602*",Remove useless curly braces around statement(¥—ığHäRMINORZ
+CODE_SMELL
+[
+java:S1611"/Remove the parentheses around the "w" parameter(¿½ÉÑHåRMINORZ
+CODE_SMELL
+X
+java:S1612",Replace this lambda with a method reference.(°Ş²÷HæRMINORZ
+CODE_SMELL
+X
+java:S1602",Remove useless curly braces around statement(¿½ÉÑHçRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„çù€ÿÿÿÿÿHèRMAJORZ
+CODE_SMELL
+X
+java:S1602",Remove useless curly braces around statement(°Ş²÷HéRMINORZ
+CODE_SMELL
+[
+java:S1611"/Remove the parentheses around the "a" parameter(°Ş²÷HêRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8›¿ûñÅ/HëRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(»¹°HìRMAJORZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(úæ£¬üÿÿÿÿ8Ô…ÒÏÅ/HÑ RMAJORZ
+CODE_SMELL
+g
+java:S1611"/Remove the parentheses around the "a" parameter(©¹ííûÿÿÿÿ8äÌ’ÎÅ/HÒ RMINORZ
+CODE_SMELL
+k	java:S1060"9Replace this use of System.out or System.err by a logger.(Ææ Ï8¨¤‚ÎÅ/HÓ RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò †Øûÿÿÿÿ8–ûüÍÅ/HÔ RMINORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(ÏŸú·8“¾®ÏÅ/HÕ RMAJORZ
+CODE_SMELL
+k	java:S1063"9Replace this use of System.out or System.err by a logger.(ŞÒ©Ø8£¹”ÎÅ/HÖ RMAJORZ
+CODE_SMELL
+g
+java:S1611!"/Remove the parentheses around the "a" parameter(äÌÙìûÿÿÿÿ8–ûüÍÅ/H× RMINORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(³Úóú8¬ÃŸÎÅ/HØ RMAJORZ
+CODE_SMELL
+[
+java:S1604("(Make this anonymous inner class a lambda(Êåª8®»­ÏÅ/HÙ RMAJORZ
+CODE_SMELL

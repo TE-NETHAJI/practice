@@ -1,0 +1,7 @@
+
+[
+java:S1481"(Remove this unused "ref" local variable.(•ºÌð8¥¬Ð¥Æ/HÛRMINORZ
+CODE_SMELL
+“
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "one".(Ê‚¹œøÿÿÿÿ8¥¬Ð¥Æ/HÜRMINORZ
+CODE_SMELL

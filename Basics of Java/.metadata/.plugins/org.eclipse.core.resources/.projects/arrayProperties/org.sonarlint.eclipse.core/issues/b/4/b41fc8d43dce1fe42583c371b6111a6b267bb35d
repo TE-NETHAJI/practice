@@ -1,0 +1,13 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¾½˜HÑRMINORZ
+CODE_SMELL
+T
+java:S1170"!Make this final field static too.(ĞÿÙ½8–½ôıÃ/HÒRMINORZ
+CODE_SMELL
+‘
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŞÛºşÿÿÿÿ8–½ôıÃ/HÓRMINORZ
+CODE_SMELL
+‰	java:S116"WRename this field "DEFAULT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÿÙ½8–½ôıÃ/HÔRMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ûÔ¦ıÿÿÿÿ8–½ôıÃ/HÕRMINORZ
+CODE_SMELL

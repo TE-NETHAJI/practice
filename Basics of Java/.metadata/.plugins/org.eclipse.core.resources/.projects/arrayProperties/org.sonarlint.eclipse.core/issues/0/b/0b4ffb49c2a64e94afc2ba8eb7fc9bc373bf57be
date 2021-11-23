@@ -1,0 +1,10 @@
+
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¹ãíøÿÿÿÿ8Á«ª€Ä/HÚRMINORZ
+CODE_SMELL
+‰	java:S116"WRename this field "DEFAULT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÐÿÙ½8Á«ª€Ä/HÛRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨¾½˜HÜRMINORZ
+CODE_SMELL
+T
+java:S1170"!Make this final field static too.(ÐÿÙ½8Á«ª€Ä/HÝRMINORZ
+CODE_SMELL

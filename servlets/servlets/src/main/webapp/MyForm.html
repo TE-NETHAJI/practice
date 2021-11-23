@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Form</title>
+</head>
+<body>
+ <form action="./read1" method="post">
+      <fieldset>
+        <legend>Form</legend>
+        <div>
+          <label for="firstname">First Name : </label>
+          <input
+            required
+            type="text"
+            name="firstname"
+            id="firstname"
+            placeholder="Please Enter the First Name"
+          />
+        </div>
+        <br />
+        <div>
+          <label for="lastname">Last Name : </label>
+          <input
+            type="text"
+            name="last"
+            id="lastname"
+            placeholder="Last Name"
+          />
+        </div>
+        <br />
+        <div>
+          <label for="gender">Gender : </label>
+          <input required type="radio" name="gender" id="gender" value="male" /> Male
+          <input required type="radio" name="gender" id="gender" value="female" /> Female
+          <input required type="radio" name="gender" id="gender" value="others" /> Others
+        </div>
+        <br />
+        <div>
+          <label for="state">Select State</label>
+          <select name="state" id="state">
+            <option value="0" disabled selected>State</option>
+            <option value="tamilnadu">Tamilnadu</option>
+            <option value="karnataka">Karnataka</option>
+            <option value="kerala">Kerala</option>
+            <option value="Andra">A.P</option>
+            <option value="Jarkand">Jarkand</option>
+          </select>
+        </div>
+        <br />
+        <br />
+
+        <div>
+          <label for="mail">Email</label>
+          <input
+            type="email"
+            name="mail"
+            id="mail"
+            required
+            placeholder="Enter Mail ID"
+          />
+        </div>
+
+        <br />
+        <div>
+          <label for="tel">Mobile</label>
+          <input type="tel" name="tel" id="tel" required />
+        </div>
+        <br />
+
+        <br />
+        <div>
+          <label for="dob">Date of Birth</label>
+          <input type="date" name="dob" id="dob" />
+        </div>
+        <br />
+        <textarea name="feedback" id="feedback" cols="60" rows="6"></textarea>
+
+        <br >
+        <input type="checkbox" id="ck" name="checked" value="Yes" required />
+        <label for="ck">Agree and Continue</label>
+
+        <br >
+        <div>
+            <label for="pwd">Passoword</label>
+            <input type="password" name="pwd" >
+        </div>
+        <br>
+        <div>
+          <input type="reset" value="Reset" />
+          <input type="submit" value="Register" />
+        </div>
+      </fieldset>
+    </form>
+
+</body>
+</html>

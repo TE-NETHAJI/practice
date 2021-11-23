@@ -1,0 +1,12 @@
+
+[
+java:S1604"(Make this anonymous inner class a lambda(ê‚ëµ8È¿áºÊ/HÕ#RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…°š·þÿÿÿÿ8È¿áºÊ/HÖ#RMINORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ò¢ûø8È¿áºÊ/H×#RMAJORZ
+CODE_SMELL
+c
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18Œ¤îºÊ/HØ#RMINORZ
+CODE_SMELL
